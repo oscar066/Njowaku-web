@@ -2,6 +2,7 @@
 
 import React, { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { useRouter } from "next/navigation";
 import { Menu } from "lucide-react";
 import { Button } from "@/components/ui/button";
@@ -53,9 +54,11 @@ const NavBar: React.FC = () => {
               <Cart />
               {isAuthenticated && (
                 <div className="relative w-8 h-8 overflow-hidden rounded-full bg-green-200">
-                  <img
+                  <Image
                     src={`https://api.dicebear.com/6.x/initials/svg?seed=${user?.email}`}
                     alt="User Avatar"
+                    width={32}
+                    height={32}
                     className="w-full h-full object-cover"
                   />
                 </div>
@@ -69,9 +72,11 @@ const NavBar: React.FC = () => {
               <Cart />
               {isAuthenticated && (
                 <div className="relative w-8 h-8 overflow-hidden rounded-full bg-green-200">
-                  <img
+                  <Image
                     src={`https://api.dicebear.com/6.x/initials/svg?seed=${user?.email}`}
                     alt="User Avatar"
+                    width={32}
+                    height={32}
                     className="w-full h-full object-cover"
                   />
                 </div>
