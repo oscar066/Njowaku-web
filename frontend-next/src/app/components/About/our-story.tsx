@@ -20,7 +20,7 @@ export function OurStory() {
             pursuit of innovation and sustainability in everything we do.
           </p>
           <p className="text-lg mb-4 leading-relaxed text-gray-600">
-            Today, we're proud to have completed over 500 projects across the region,
+            Today, we&apos;re proud to have completed over 500 projects across the region,
             earning numerous awards for our sustainable design practices and client
             satisfaction. Our team has grown to include certified horticulturists,
             landscape architects, and maintenance specialists who share our vision
