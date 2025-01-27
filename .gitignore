@@ -15,6 +15,9 @@ Backend/.app.py.icloud
 Backend/Pipfile.lock
 Backend/db.sqlite3
 
+# ignore backend env variables 
+Backend/.env
+
 # ignore DS_stores
 
 .DS_Store
