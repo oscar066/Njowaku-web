@@ -40,7 +40,7 @@ function MainFooter() {
       <div className="flex flex-wrap justify-between max-w-6xl mx-auto py-10 px-5 space-y-8 md:space-y-0">
         <div className="w-full md:w-1/4 mb-4">
           <h4 className="text-xl font-bold mb-4 border-b-2 border-green-500 pb-2 inline-block">
-            NJOKARU
+            NJOWAKU
           </h4>
           <p className="text-gray-300 mb-4">
             Creating and maintaining beautiful outdoor spaces.
@@ -57,7 +57,7 @@ function MainFooter() {
             Contact Us
           </h4>
           <p className="text-gray-300 mb-2 flex items-center">
-            <FaEnvelope className="mr-2" /> njokaru@gardening.com
+            <FaEnvelope className="mr-2" /> njowaku@gardening.com
           </p>
           <p className="text-gray-300 mb-2 flex items-center">
             <FaPhone className="mr-2" /> +254 719686913

@@ -14,7 +14,7 @@ const AboutUs = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-4">
-            Welcome to <span className="text-green-700">NJOKARU</span>
+            Welcome to <span className="text-green-700">NJOWAKU</span>
           </h1>
           <p className="text-xl text-gray-600 italic">
             Crafting nature&apos;s canvas one garden at a time
@@ -41,7 +41,7 @@ const AboutUs = () => {
             </h2>
             <div className="space-y-4 text-gray-700 mb-4 leading-relaxed">
               <p>
-                Welcome to NJOKARU, where we bring your outdoor spaces to life.
+                Welcome to NJOWAKU, where we bring your outdoor spaces to life.
                 Our team of dedicated gardeners and maintenance professionals is
                 passionate about creating and maintaining beautiful landscapes.
               </p>

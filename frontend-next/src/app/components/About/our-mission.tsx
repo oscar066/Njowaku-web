@@ -20,12 +20,12 @@ export function OurMission() {
       <Card className="bg-primary-light/10 shadow-lg hover:shadow-xl transition-shadow">
         <CardContent className="p-6">
           <motion.p 
-            className="text-lg leading-relaxed text-gray-600 mb-4"
+            className="text-lg leading-relaxed text-gray-700 mb-4"
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5 }}
           >
-            At Njokaru, we strive to create harmonious outdoor environments that
+            At Njowaku, we strive to create harmonious outdoor environments that
             enhance the beauty of nature while promoting sustainability and
             biodiversity. Our mission is to bring the joy of gardening to every
             home and community we serve, while educating our clients about the
